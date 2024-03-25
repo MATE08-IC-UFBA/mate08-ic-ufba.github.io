@@ -2,6 +2,8 @@
 
 - SEG, 18:30h
 
+### Atividades
+
 | Dia | Data | Assunto | Atividade 
 | - | 11/3 | - |
 | 1 | 18/3 | Apresentação da disciplina; Visão Geral sobre Ciência Aberta |

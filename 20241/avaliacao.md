@@ -1,7 +1,7 @@
+## Avaliação
 
 Descrição dos métodos de avaliação, incluindo atividades e pesos.
 
-## Avaliação
 
 ### Atividades
 
