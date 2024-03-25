@@ -1,13 +1,18 @@
 
 ## Avaliação
 
+Descrição de atividades e pesos.
+
+
+### Atividades
+
 * Trabalho Prático
 
 * Exercícios práticos 
 
 * Seminários e apresentações
 
-## Pesos
+### Pesos
 
 * Trabalho prático (40% da nota final)
 * Exercícios práticos (30% da nota final)
