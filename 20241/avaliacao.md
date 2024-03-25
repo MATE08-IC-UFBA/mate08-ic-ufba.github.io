@@ -1,15 +1,15 @@
 
-## Atividades
+## Avaliação
 
 * Trabalho Prático
 
 * Exercícios práticos 
 
-* Seminário 
+* Seminários e apresentações
 
 ## Pesos
 
-* Trabalho prático (50% da nota final)
+* Trabalho prático (40% da nota final)
 * Exercícios práticos (30% da nota final)
-* Seminário (20% da nota final)
+* Seminários e apresentações (30% da nota final)
 
