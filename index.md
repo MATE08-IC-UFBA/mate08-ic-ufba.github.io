@@ -41,12 +41,18 @@ Ciência Aberta: definição, princípios, pilares, artefatos de pesquisa, proce
 
 ### Artigos
 1. Barker, M., Castro, L. J., Fritzsch, B., Katz, D. S., Martinez-Ortiz, C., Niehues, A., Struck, A., & Zhang, Q. (2024). The FAIR for Research Software Principles after two years: An adoption update. Zenodo. [https://doi.org/10.5281/zenodo.10816032](https://doi.org/10.5281/zenodo.10816032)
-2. [Metrics for automated FAIR software assessment in a disciplinary context](https://fair-impact.eu/news/metrics-automated-fair-software-assessment-disciplinary-context-fair-impact-result-released)
+2. Chue Hong, N., Breitmoser, E., Antonioletti, M., Davidson, J., Garijo, D., Gonzalez-Beltran, A., Gruenpeter, M., Huber, R., Jonquet, C., priddy, M., Shepeherdson, J., Verburg, M., & Wood, C. (2023). D5.2 - Metrics for automated FAIR software assessment in a disciplinary context (1.0 - DRAFT not yet approved by the European Commission). Zenodo. [https://doi.org/10.5281/zenodo.10047401](https://doi.org/10.5281/zenodo.10047401).
 
-### Ferramentas
+
+### Cursos e tutoriais
 
 1. [Introduction to version control with git](https://coderefinery.github.io/git-intro/) (Code Refinery lessons)
 
+### Ferramentas
+
+1. [Git](https://git-scm.com)
+
+2. [Zotero](https://www.zotero.org)
  
 
 
