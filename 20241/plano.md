@@ -10,19 +10,21 @@
 | 2 | 25/3 | Visão geral sobre Software para Pesquisa |
 | 3 | 01/4 | |
 | 4 | 08/4 | |
-| 5 | 15/4 | | 
-| 6 | 22/4 | Seminário 1 | 
-| 7 | 29/4 | Ferramenta 1 | 
-| 8 | 06/5 | | 
-| 9 | 13/5 | Seminário 2 | 
-| 10 | 20/5 | Ferramenta 2 | 
-| 11 | 27/5 | | 
-| 12 | 03/6 | Seminário 3 |
-| 13 | 10/6 | Ferramenta 3 |
-| 14 | 17/6 | | 
-| 15 | 24/6 | FERIADO |
-| 16 | 01/7 | |
-| 17 | 08/7 | Apresentação de trabalhos |
+| 5 | 15/4 | Afastamento da docente para o ICSE 2024 |
+| 6 | 22/4 | Especificação de T1 |
+|   | 02/5 | Greve nacional de docentes de universidades federais: 02/5 a 03/7/23 ||
+| 7 | 08/7 | Revisão de conceitos ||
+| 8 | 15/7 | Discussão de T1 ||
+| 9 | 22/7 | Seminário 1 | 
+| 10 | 29/7 | Ferramenta 1 | 
+| 11 | 05/8 | | 
+| 12 | 12/8 | Seminário 2 | 
+| 13 | 19/8 | Ferramenta 2 | 
+| 14 | 26/8 | | 
+| 15 | 02/9 | Seminário 3 |
+| 16 | 09/9 | Ferramenta 3 |
+| 17 | 16/9 | | 
+| 18 | 23/9 | Apresentação de trabalhos |
 
 <!--
 
