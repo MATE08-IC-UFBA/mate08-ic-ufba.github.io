@@ -1,8 +1,9 @@
-
 [Calendário Acadêmico - 2024.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2024.1_e2024.2_versao_11_03_2024.pdf)
 
+<!--
   * [Plano de Aulas](./20241/plano.md)
   * [Avaliação](./20241/avaliacao.md)
+-->
 
 ## Pré-requisitos recomendados
 
@@ -41,19 +42,19 @@ Ciência Aberta: definição, princípios, pilares, artefatos de pesquisa, proce
 
 ### Artigos
 1. Barker, M., Castro, L. J., Fritzsch, B., Katz, D. S., Martinez-Ortiz, C., Niehues, A., Struck, A., & Zhang, Q. (2024). The FAIR for Research Software Principles after two years: An adoption update. Zenodo. [https://doi.org/10.5281/zenodo.10816032](https://doi.org/10.5281/zenodo.10816032)
-2. Chue Hong, N., Breitmoser, E., Antonioletti, M., Davidson, J., Garijo, D., Gonzalez-Beltran, A., Gruenpeter, M., Huber, R., Jonquet, C., priddy, M., Shepeherdson, J., Verburg, M., & Wood, C. (2023). D5.2 - Metrics for automated FAIR software assessment in a disciplinary context (1.0 - DRAFT not yet approved by the European Commission). Zenodo. [https://doi.org/10.5281/zenodo.10047401](https://doi.org/10.5281/zenodo.10047401).
+2. Chue Hong, N., Breitmoser, E., Antonioletti, M., Davidson, J., Garijo, D., Gonzalez-Beltran, A., Gruenpeter, M., Huber, R., Jonquet, C., Priddy, M., Shepeherdson, J., Verburg, M., & Wood, C. (2023). D5.2 - Metrics for automated FAIR software assessment in a disciplinary context (1.0 - DRAFT not yet approved by the European Commission). Zenodo. [https://doi.org/10.5281/zenodo.10047401](https://doi.org/10.5281/zenodo.10047401).
 
 
 ### Cursos e tutoriais
 
-1. [Introduction to version control with git](https://coderefinery.github.io/git-intro/) (Code Refinery lessons)
+1. [Princípios e Práticas para Sustentabilidade do Software de Pesquisa - Christina von Flach, Joenio M. Costa, Daniela Feitosa. DOI: https://doi.org/10.5753/sbc.12853.0.3](https://books-sol.sbc.org.br/index.php/sbc/catalog/view/128/555/858-1)
+2. [Introduction to version control with git](https://coderefinery.github.io/git-intro/) (Code Refinery lessons)
 
 ### Ferramentas
 
-1. [Git](https://git-scm.com)
-
-2. [Zotero](https://www.zotero.org)
+1. [Zotero](https://www.zotero.org)
+2. [OSF](https://osf.io/)
+3. [Parsifal](https://parsif.al/)
+4. [PRISMA](https://www.prisma-statement.org/)
+5. [Zotero](https://www.zotero.org/)
  
-
-
-
